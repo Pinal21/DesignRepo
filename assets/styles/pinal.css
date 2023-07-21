@@ -1,0 +1,39 @@
+h6 {
+   color: blue;
+   background-color: yellow;
+   font-size: medium;
+   width: 200px;
+   margin-left: 50%;
+}
+
+.testblk{
+color: red;
+}
+
+.answer {
+    color: blue;
+}
+
+#tetsId {
+    color: pink;
+}
+
+.divclass {
+    background-image: url('../images/img_478223.png');
+    width: 1000px;
+    height: 1000px;
+}
+
+img {
+width: 200px;
+height: 200px;
+
+}
+
+#imagepinal {
+    margin-left: 50px;
+}
+
+.bottomdiv {
+    margin-top: 100px;
+}
