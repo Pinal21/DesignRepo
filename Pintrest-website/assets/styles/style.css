@@ -72,3 +72,31 @@ h1{
 body {
     background-color: powderblue;
   }
+
+  h2{
+    color: black;
+    background-color: yellow;
+    font-size: x-large;
+    width: 100px;
+    margin-left: 50%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+.first{
+       height: 150px;
+       width: 200px;
+}
+
+.second{
+        height: 150px;
+        width: 200px;
+        margin-left: 10%;
+}
+
+.third{
+       height: 150px;
+       width: 200px;
+       margin-left: 10%;
+}
