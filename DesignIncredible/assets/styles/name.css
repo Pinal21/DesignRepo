@@ -1,0 +1,58 @@
+img{
+    width: 200px;
+    height: 80px;
+} 
+
+.btn-group{
+    display: flex;        
+}  
+
+.one{
+    margin-left: 500px;
+    margin-right: 40px;
+}
+
+.Two{ 
+    margin-right: 40px;
+}
+
+.Three{
+       margin-right: 40px; 
+}
+
+p{
+    height: 150px;
+    width: 300px;
+    font-size: small;
+    margin-top: 90px;
+}
+ 
+img.oatsone{    
+          margin-left: 50%;
+        margin-right: 30px;
+          height: 500;
+          width: 150px;
+}    
+
+h{
+    font-size: large;
+    margin-bottom: 20px;
+}
+
+p1{
+    width: 400px;
+}
+ h1{
+    margin-left: 800px;
+    margin-right: 50px;
+    font-size: medium;
+ }
+
+ h2{
+    margin-left: 40%;
+    width: 100px;
+    margin-top: 1%;
+    margin-bottom: 10%;
+    font-size:x-large;
+ }
+ 
