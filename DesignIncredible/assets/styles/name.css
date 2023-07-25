@@ -6,53 +6,98 @@ img{
 .btn-group{
     display: flex;        
 }  
-
 .one{
-    margin-left: 500px;
+    margin-left: 800px;
     margin-right: 40px;
+    background-color: red;
 }
 
-.Two{ 
+.Two{
+     margin-right:40px;
+     background-color: red;
+}
+
+.Three{ 
     margin-right: 40px;
+    background-color: red;
 }
 
-.Three{
-       margin-right: 40px; 
+.btn-group{
+    display: flex; 
 }
 
-p{
-    height: 150px;
-    width: 300px;
-    font-size: small;
+.peraone{
+    width: 1000px;
+    height: 200px;
     margin-top: 90px;
+    font-size: x-large;
 }
  
-img.oatsone{    
-          margin-left: 50%;
-        margin-right: 30px;
-          height: 500;
-          width: 150px;
-}    
-
-h{
-    font-size: large;
-    margin-bottom: 20px;
-}
-
-p1{
-    width: 400px;
-}
- h1{
-    margin-left: 800px;
+.oatsone{    
+    margin-left: 10%;
     margin-right: 50px;
-    font-size: medium;
- }
+    height: 200px;
+    width: 400px;
+    margin-top: 70px;
+}   
 
- h2{
+.Addone{
+    font-size: xx-large;
+
+}
+
+.Addtwo{
+    width: 50%
+}
+ 
+
+.info{
     margin-left: 40%;
     width: 100px;
-    margin-top: 1%;
-    margin-bottom: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
     font-size:x-large;
+    color: black;
+    background-color:blue
  }
- 
+  
+ .h-20{
+        height: 20px;
+ }
+
+ #Name{
+       margin-left: 80px;
+ }
+
+ #Address{
+    margin-left: 70px;
+ }
+
+ .btn-group{
+    display: flex; 
+}
+
+.one-B{
+    margin-left: 40%;
+    margin-right: 40px;
+    background-color:yellowgreen ;
+}
+
+.one-BB{
+    height: 20px;
+    margin-top: 50px;
+    margin-right: 40px;
+    background-color: red ;
+} 
+
+.btn-group{
+         display: flex;
+}  
+
+.copy{
+    margin-left: 1000px;
+    font-size: medium; 
+    margin-top: 20px; 
+    font-style: italic; 
+}
+       
