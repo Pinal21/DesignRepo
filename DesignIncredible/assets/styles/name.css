@@ -3,23 +3,29 @@ img{
     height: 80px;
 } 
 
-.btn-group{
+.btn-group {
     display: flex;        
 }  
 .one{
     margin-left: 800px;
     margin-right: 40px;
-    background-color: red;
+    background-color: black;
+    color: white;
 }
 
 .Two{
      margin-right:40px;
-     background-color: red;
+     background-color: black;
+     color: white;
+}
+.btn-class{
+    margin-top: 20px;
 }
 
 .Three{ 
     margin-right: 40px;
-    background-color: red;
+    background-color: black;
+    color: white;
 }
 
 .btn-group{
@@ -43,11 +49,13 @@ img{
 
 .Addone{
     font-size: xx-large;
+    margin-left: 10px;
 
 }
 
 .Addtwo{
-    width: 50%
+    width: 50%;
+    margin-left: 10px;
 }
  
 
@@ -58,7 +66,7 @@ img{
     margin-bottom: 5%;
     font-size:x-large;
     color: black;
-    background-color:blue
+    background-color:grey
  }
   
  .h-20{
@@ -78,16 +86,15 @@ img{
 }
 
 .one-B{
-    margin-left: 40%;
+    margin-left: 50%;
     margin-right: 40px;
-    background-color:yellowgreen ;
+    background-color:grey ;
+    height: 20px;
 }
 
-.one-BB{
+.Two-BB{
     height: 20px;
-    margin-top: 50px;
-    margin-right: 40px;
-    background-color: red ;
+    background-color: grey ;
 } 
 
 .btn-group{
@@ -98,6 +105,34 @@ img{
     margin-left: 1000px;
     font-size: medium; 
     margin-top: 20px; 
+    margin-right: 10px;
     font-style: italic; 
 }
-       
+
+.contact-from-sub {
+    margin-top: 40px;
+}
+
+.contextform{
+    margin-left: 35%;
+    background-color:rgba(161, 135, 135, 0.151);
+    width: 465px;
+    height: 280px;
+    border: solid gray;
+    text-align-last: center;
+    margin-bottom: 10px;
+}
+
+
+.Bgclass{
+         background-color: rgb(69, 56, 99);
+}
+
+.bg-color-footer{
+    background-color: grey;
+    height: 78px;
+}
+
+.display-footer-group {
+    display: table-footer-group;
+}
